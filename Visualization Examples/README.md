@@ -41,4 +41,5 @@ I chose to design this graph because while I have seen a team's rotations during
 ---
 
 TODO:
-for rotation graphs: color coding could be confusing on basic mode because users can think main graph is all blue for a reason, for passing: change default to red instead or maybe invert advanced encoding??
+- for rotation graphs: color coding could be confusing on basic mode because users can think main graph is all blue for a reason, for passing: change default to red instead or maybe invert advanced encoding??
+- maybe try expanding horizontal with filters in panel on the left and the graphs on the right. this would affect mobile usability but definitely something to investigate
