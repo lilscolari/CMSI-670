@@ -36,12 +36,6 @@ The main graph shows a histogram for each player and on average, throughout all 
 
 
 ### Design Choices
-TODO: Explain the reasoning behind the visualization's design. Consider:
-- Why this particular chart type was chosen.
-- Why specific colors were used.
-- How the layout helps communicate the data.
-- How the design makes the visualization easier to understand.
-
 I chose to design this graph because while I have seen a team's rotations during a game represented like this, I felt like more data could be displayed. That is why I chose to include the size being affected in advanced mode and using that to encode points scored during that stint. I have also never seen an aggregated view like the first graph that showcases on average when a player is on the court and when they are on the court, if they are outscoring or getting outscored by the other team. The auto-generated text also provides relevant information via a different modality and compliments the visual well. As stated previously, I used these colors to make the graph more usable. I also used the same color-coding to remain consistent. The layout is awesome because it uses small multiples and main graphics to display the data. The first main visual shows seasonal trends and the second one shows how impactful players were when they were on the floor during a specific game. Like the other visual, I included a basic and advanced mode to allow for users of different backgrounds to enjoy the graphs equally. The advanced mode can get overwhelming which is why the basic mode does not encode as much information. The design makes the visualization easier to understand because it is consistent and provides relevant context. The text provides extra information and the colors highlight areas of focus from the muted grays.
 
 ---
